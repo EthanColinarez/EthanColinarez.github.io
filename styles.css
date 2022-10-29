@@ -8,6 +8,7 @@ body {
     padding:15px;
     margin:15px;
     background:#228B22;
+    border-radius: 25px;
 }
 
 .assignment img {
@@ -21,7 +22,15 @@ h1 {
     text-align:center;
 }
 
+h1:hover {
+    color: white;
+}
+
 a {
     text-decoration: none;
     color:black;
+}
+
+a:hover {
+    color: white;
 }
